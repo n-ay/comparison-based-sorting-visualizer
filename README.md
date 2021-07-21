@@ -19,4 +19,4 @@
 ## Installing and Using:
 1. Download the folder
 2. Run main.py
-Simple!
+### Simple!
