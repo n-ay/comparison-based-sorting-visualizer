@@ -13,7 +13,7 @@
    
 ## Demo Picture:
 
-
+![Demo Image](https://github.com/n-ay/comparison-based-sorting-visualizer/blob/main/Visualizer-demo-image.png)
 
 
 ## Installing and Using:
